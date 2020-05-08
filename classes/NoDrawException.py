@@ -1,0 +1,2 @@
+class NoDrawException(Exception):
+    pass
